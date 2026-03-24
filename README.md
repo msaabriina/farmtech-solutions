@@ -71,25 +71,25 @@ farmtech-solutions/
 ├── dados_lavoura.csv         # Arquivo com dados gerados
 ├── estatistica_farmtech.R    # Cálculo de média e desvio padrão
 └── link_video.txt            # Link do vídeo no YouTube
-
+```
 ---
 
-⚙️ Como Executar o Projeto
-▶️ Python
+## ⚙️ Como Executar o Projeto
+## ▶️ Python
 python3 app_farmtech.py
 
-📊 R - Estatística
+## 📊 R - Estatística
 Rscript estatistica_farmtech.R
 
-🌦️ R - API Meteorológica
+## 🌦️ R - API Meteorológica
 Rscript clima_api.R
 
-💻 Tecnologias Utilizadas
+## 💻 Tecnologias Utilizadas
 Python
 R
 Git e GitHub
 API Open-Meteo
 
-📌 Observações
+## 📌 Observações
 Este projeto foi desenvolvido com fins acadêmicos, simulando um ambiente real de desenvolvimento colaborativo com uso de versionamento de código.
 
