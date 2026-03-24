@@ -85,10 +85,10 @@ Rscript estatistica_farmtech.R
 Rscript clima_api.R
 
 ## 💻 Tecnologias Utilizadas
-Python
-R
-Git e GitHub
-API Open-Meteo
+- Python
+- R
+- Git e GitHub
+- API Open-Meteo
 
 ## 📌 Observações
 Este projeto foi desenvolvido com fins acadêmicos, simulando um ambiente real de desenvolvimento colaborativo com uso de versionamento de código.
