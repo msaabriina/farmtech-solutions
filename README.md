@@ -72,6 +72,8 @@ farmtech-solutions/
 ├── estatistica_farmtech.R    # Cálculo de média e desvio padrão
 └── link_video.txt            # Link do vídeo no YouTube
 
+---
+
 ⚙️ Como Executar o Projeto
 ▶️ Python
 python3 app_farmtech.py
